@@ -13,5 +13,5 @@
        MAIN-PROCEDURE.
             DISPLAY "Hello world"
             STOP RUN.
-       END PROGRAM.
+       END PROGRAM HELLO.
 
