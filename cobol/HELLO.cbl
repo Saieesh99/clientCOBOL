@@ -5,7 +5,7 @@
       * Tectonics: cobc
       ******************************************************************
        IDENTIFICATION DIVISION.
-       PROGRAM-ID. YOUR-PROGRAM-NAME.
+       PROGRAM-ID. HELLO.
        DATA DIVISION.
        FILE SECTION.
        WORKING-STORAGE SECTION.
@@ -13,5 +13,5 @@
        MAIN-PROCEDURE.
             DISPLAY "Hello world"
             STOP RUN.
-       END PROGRAM YOUR-PROGRAM-NAME.
+       END PROGRAM.
 
